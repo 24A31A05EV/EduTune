@@ -1,53 +1,10 @@
-# Python
 __pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environment
+*.pyc
 .venv/
-venv/
-env/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Environment variables / secrets
 .env
-.env.*
-!.env.example
-
-# Hugging Face cache
-.cache/
-huggingface/
-transformers_cache/
-
-# Model files
-*.bin
+.ipynb_checkpoints/
 *.safetensors
-*.gguf
+*.bin
 *.pt
 *.pth
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# VS Code
 .vscode/
-
-# Data files
-data/raw/*
-data/processed/*
-
-# Python packaging
-dist/
-build/
-*.egg-info/
-
-# Test / coverage
-.pytest_cache/
-.coverage
-htmlcov/
