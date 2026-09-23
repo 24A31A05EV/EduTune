@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is a stack in data structures?",
+    "expected_topic": "stack",
+    "retrieved": true,
+    "topic_match": true,
+    "similarity": 0.8043,
+    "document": "A stack is a linear data structure that follows the LIFO principle, meaning Last In, First Out. The main operations are push and pop. Push adds an element to the top of the stack, while pop removes the top element."
+  },
+  {
+    "question": "What is normalization in DBMS?",
+    "expected_topic": "normalization",
+    "retrieved": true,
+    "topic_match": true,
+    "similarity": 0.7905,
+    "document": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. Common normal forms include First Normal Form, Second Normal Form, and Third Normal Form."
+  },
+  {
+    "question": "What is binary search?",
+    "expected_topic": "binary search",
+    "retrieved": true,
+    "topic_match": true,
+    "similarity": 0.8344,
+    "document": "Binary search is an efficient searching algorithm for sorted data. It repeatedly divides the search interval into half. Its time complexity is O(log n)."
+  },
+  {
+    "question": "What is machine learning?",
+    "expected_topic": "machine learning",
+    "retrieved": true,
+    "topic_match": true,
+    "similarity": 0.8369,
+    "document": "Machine learning is a branch of artificial intelligence in which algorithms learn patterns from data and use those patterns to make predictions or decisions."
+  },
+  {
+    "question": "What is an API?",
+    "expected_topic": "api",
+    "retrieved": true,
+    "topic_match": true,
+    "similarity": 0.822,
+    "document": "APIs"
+  }
+]
