@@ -1,0 +1,35 @@
+EduTune Educational Knowledge Base
+
+DATA STRUCTURES
+
+A stack is a linear data structure that follows the LIFO principle, meaning Last In, First Out. The main operations are push and pop. Push adds an element to the top of the stack, while pop removes the top element.
+
+A queue is a linear data structure that follows the FIFO principle, meaning First In, First Out. The main operations are enqueue and dequeue. Enqueue adds an element to the rear of the queue, while dequeue removes an element from the front.
+
+Binary search is an efficient searching algorithm for sorted data. It repeatedly divides the search interval into half. Its time complexity is O(log n).
+
+DATABASE MANAGEMENT SYSTEMS
+
+A primary key is a column or combination of columns that uniquely identifies every record in a database table. A primary key cannot contain duplicate values.
+
+Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. Common normal forms include First Normal Form, Second Normal Form, and Third Normal Form.
+
+OPERATING SYSTEMS
+
+CPU scheduling is the process by which an operating system selects a process to execute on the CPU. Common scheduling algorithms include First Come First Served, Shortest Job First, Priority Scheduling, and Round Robin.
+
+PYTHON
+
+Python is a high-level interpreted programming language known for its readable syntax. It is commonly used for software development, automation, data analysis, artificial intelligence, and machine learning.
+
+MACHINE LEARNING
+
+Machine learning is a branch of artificial intelligence in which algorithms learn patterns from data and use those patterns to make predictions or decisions.
+
+APIs
+
+An API, or Application Programming Interface, allows different software applications to communicate with each other through defined rules and interfaces.
+
+GITHUB
+
+GitHub is a platform used to host Git repositories and support software development collaboration. Developers can use GitHub to store code, track changes, manage issues, and collaborate with other developers.
