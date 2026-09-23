@@ -1,10 +1,11 @@
+.venv/
 __pycache__/
 *.pyc
-.venv/
-.env
-.ipynb_checkpoints/
+
+models/
 *.safetensors
 *.bin
 *.pt
 *.pth
-.vscode/
+
+.envcode/
